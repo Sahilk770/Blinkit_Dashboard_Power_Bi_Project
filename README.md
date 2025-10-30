@@ -24,7 +24,7 @@ The dashboard provides detailed insights into:
 
 ## 🖼️ Dashboard Preview  
 
-![Blinkit Dashboard](Screenshot%202025-10-29%20125945.png)
+![Blinkit Dashboard](https://github.com/Sahilk770/Blinkit_Dashboard_Power_Bi_Project/blob/fbe727b8983ce26e5d7befc0d390242feccb4958/Screenshot/Screenshot%202025-10-29%20125945.png)
 
 ---
 
